@@ -1,0 +1,15 @@
+.ant-input-number {
+  &:hover {
+    .ant-input-number-handler-wrap {
+      display: none;
+    }
+  }
+}
+.ant-input-number-input-wrap {
+  height: 48px;
+  display: flex;
+  align-items: center;
+}
+.ant-btn-default:not(:disabled):not(.ant-btn-disabled):hover {
+  color: white;
+}
