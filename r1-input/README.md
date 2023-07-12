@@ -24,3 +24,5 @@ yarn start
 
 ## 4.  Feedback
 With this exercise everything is fine with me. If I have more time, I think I can improve more on the UI/UX part so that I can improve the user experience.
+## 5. Screen recoding
+[Google drive](https://drive.google.com/file/d/1omTPf18xG20LbDx_78FJDwEOkNjZpmaH/view?usp=sharing)

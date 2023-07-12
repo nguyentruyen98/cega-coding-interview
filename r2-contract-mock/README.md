@@ -26,3 +26,6 @@ yarn start
 ## 4. Feedback
 -   For this test, I think this is an interesting challenge for me. I tried to research the relevant documents before doing it (all in 1 day). I think I was well prepared before I started doing it.
 -   Because of the time limit, I think the product is limited, if I have more time, I think I can learn more about the related libraries to improve the product.
+
+## 5. Screen recording
+[Google drive](https://drive.google.com/file/d/1e8tB5TC9eXHIqeOp6WoHB_MpBofNp4Hd/view?usp=sharing)
